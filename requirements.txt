@@ -1,0 +1,4 @@
+httpx[http2]
+pystyle
+PyYAML
+rgbprint
