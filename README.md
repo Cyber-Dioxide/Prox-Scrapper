@@ -7,6 +7,8 @@ Welcome to Proxy-Scrapper, your go-to tool for effortlessly gathering and managi
 * Versatility: Suitable for a wide range of applications, from web scraping to security testing.
 * Customization: Tailor your proxy scraping experience with customizable options and filters.
 * Documentation: Clear and concise documentation to help you get started and make the most of Proxy-Scrapper.
+# Tutorial:
+https://www.youtube.com/shorts/ZzUXK-m_DN0
 
 # Installation
 * clone this repo
