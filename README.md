@@ -23,4 +23,4 @@ A tiny donation adds up to buy more coding stuff for testing and releasing in pu
 Binance BTC Address: bc1qsmuuhkph59qwv4q87p2w4lzudysym72vjqjfa8
 
 # Service
-For any coding related service dm me on telegram or instagram @coding_memz
+For any coding related service dm me on [Telegram](https://www.cyberdioxide.com/p/contact.html) or instagram @coding_memz
