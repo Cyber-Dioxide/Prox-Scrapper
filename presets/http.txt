@@ -19,3 +19,4 @@ https://api.openproxylist.xyz/http.txt
 http://pubproxy.com/api/proxy
 https://raw.githubusercontent.com/HyperBeats/proxy-list/main/http.txt
 https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-https.txt
+https://rcloak.com/api/proxies/raw?protocol=http
